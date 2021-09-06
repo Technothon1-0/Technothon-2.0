@@ -1,2 +1,2 @@
 # Hackathon-website
-Link :
+Link : https://technothon1-0.github.io/Technothon-2.0/
